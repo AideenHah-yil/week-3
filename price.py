@@ -19,3 +19,5 @@ def main():
 
     else:
         print(f"The final price is: ${original_price:.2f}")
+
+main()        
